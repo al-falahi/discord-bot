@@ -1,6 +1,6 @@
 const Discord = require("discord.js");
 const prefix = "!";
-const token = "NzAxMDczMDE5OTYzMDQ3OTgx.Xptmpw.SXiDIXXEgRLOMbTFTDHJY0JWN54";
+const token = "NzAxMDczMDE5OTYzMDQ3OTgx.XptqGw.ZR_jsPZ_mM77_hpzpw3MYLICFaM";
 const ytdl = require("ytdl-core");
 
 const client = new Discord.Client();
